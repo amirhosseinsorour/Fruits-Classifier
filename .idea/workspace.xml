@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c74cfa42-ccf3-4c27-9f46-ad52a864f52f" name="Default Changelist" comment="" />
+    <list default="true" id="c74cfa42-ccf3-4c27-9f46-ad52a864f52f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ANN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Feature_Extraction_Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Feature_Extraction_Train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/test_set_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/test_set_labels.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/train_set_features.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datasets/train_set_labels.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loading_Dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/Loading_Dataset.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,14 +19,99 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Loading_Dataset.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="102">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#35#58#0" />
+                <element signature="e#125#1201#0" />
+                <element signature="e#930#1102#0" />
+                <element signature="e#1108#1117#0" />
+                <element signature="e#1229#2275#0" />
+                <element signature="e#2009#2178#0" />
+                <element signature="e#2184#2193#0" />
+                <element signature="e#2277#2289#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ANN.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#133#470#0" />
+                <element signature="e#375#453#0" />
+                <element signature="e#511#817#0" />
+                <element signature="e#723#800#0" />
+                <element signature="e#843#1051#0" />
+                <element signature="e#1100#1455#0" />
+                <element signature="e#1292#1432#0" />
+                <element signature="e#1503#1828#0" />
+                <element signature="e#1683#1810#0" />
+                <element signature="e#1853#2830#0" />
+                <element signature="e#1887#1903#0" />
+                <element signature="e#1939#1966#0" />
+                <element signature="e#2004#2050#0" />
+                <element signature="e#2083#2100#0" />
+                <element signature="e#2135#2163#0" />
+                <element signature="e#2196#2215#0" />
+                <element signature="e#2250#2278#0" />
+                <element signature="e#2314#2548#0" />
+                <element signature="e#2585#2830#0" />
+                <element signature="e#2904#3115#0" />
+                <element signature="e#3158#3773#0" />
+                <element signature="e#3360#3720#0" />
+                <element signature="e#3809#4230#0" />
+                <element signature="e#4052#4198#0" />
+                <element signature="e#4255#4398#0" />
+                <element signature="e#4433#4465#0" />
+                <element signature="e#4518#4714#0" />
+                <element signature="e#4785#5754#0" />
+                <element signature="e#4983#5736#0" />
+                <element signature="e#5273#5354#0" />
+                <element signature="e#5544#5736#0" />
+                <element signature="e#5855#7123#0" />
+                <element signature="e#6027#7029#0" />
+                <element signature="e#6152#6942#0" />
+                <element signature="e#6375#6642#0" />
+                <element signature="e#6728#6903#0" />
+                <element signature="e#7195#7954#0" />
+                <element signature="e#7395#7936#0" />
+                <element signature="e#7856#7936#0" />
+                <element signature="e#8056#9278#0" />
+                <element signature="e#8256#9168#0" />
+                <element signature="e#8381#9044#0" />
+                <element signature="e#8830#9005#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Feature_Extraction_Train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Feature_Extraction_Test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -31,25 +126,35 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+      <find>+=</find>
+      <find>max</find>
+      <find>rel</find>
+      <find>plot</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="D:/AI/Coursera/Deep Learning/Building_your_Deep_Neural_Network_Step_by_Step.py" />
+        <option value="$PROJECT_DIR$/../../ANN_Project_Assets/Feature_Extraction_Test.py" />
+        <option value="$PROJECT_DIR$/../../ANN_Project_Assets/Feature_Extraction_Train.py" />
+        <option value="$PROJECT_DIR$/Feature_Extraction_Train.py" />
+        <option value="$PROJECT_DIR$/Feature_Extraction_Test.py" />
+        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/Loading_Dataset.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/ANN.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="948" />
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
     <option name="width" value="981" />
     <option name="height" value="1032" />
   </component>
@@ -59,24 +164,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Neural Networks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Neural Networks" type="462c0819:PsiDirectoryNode" />
+              <item name="Neural Networks - Fruits Classification" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Neural Networks - Fruits Classification" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -93,7 +199,73 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.ANN">
+    <configuration name="ANN" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Neural Networks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Feature_Extraction_Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Neural Networks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Feature_Extraction_Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Feature_Extraction_Train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Neural Networks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Feature_Extraction_Train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Loading_Dataset" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Neural Networks" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,9 +288,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Neural Networks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ANN" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.Loading_Dataset" />
+        <item itemvalue="Python.Feature_Extraction_Test" />
+        <item itemvalue="Python.Feature_Extraction_Train" />
       </list>
     </recent_temporary>
   </component>
@@ -132,53 +330,209 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637230229676</updated>
-      <workItem from="1637230231574" duration="1015000" />
+      <workItem from="1637230231574" duration="40160000" />
+      <workItem from="1637394521686" duration="1249000" />
+      <workItem from="1637956263234" duration="83392000" />
+      <workItem from="1638176140453" duration="10372000" />
+      <workItem from="1638189755285" duration="297000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1015000" />
+    <option name="totallyTimeSpent" value="135470000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15602264" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1196443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.39893618" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5004042" side_tool="true" weight="0.26595744" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.4995958" weight="0.38120568" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" x="436" y="132" width="408" height="416" id="SciView" maximized="true" order="3" weight="0.32983023" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.15602264" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.32624114" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39893618" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5004042" side_tool="true" weight="0.26595744" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" x="-4" y="32" width="1281" height="658" id="SciView" maximized="true" order="3" type="WINDOWED" weight="0.32983023" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Neural_Networks$Loading_Dataset.coverage" NAME="Loading_Dataset Coverage Results" MODIFIED="1637231722863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Neural_Networks$Feature_Extraction_Train.coverage" NAME="Feature_Extraction_Train Coverage Results" MODIFIED="1638134987019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Neural_Networks$ANN.coverage" NAME="ANN Coverage Results" MODIFIED="1638187878537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Neural_Networks$Feature_Extraction_Test.coverage" NAME="Feature_Extraction_Test Coverage Results" MODIFIED="1638134991134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Neural_Networks$Loading_Dataset.coverage" NAME="Loading_Dataset Coverage Results" MODIFIED="1638137206350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Neural_Networks$test.coverage" NAME="test Coverage Results" MODIFIED="1638184069815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://D:/Python/Test/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-351">
+          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib/site-packages/numpy/core/function_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/AI/Coursera/Deep Learning/Building_your_Deep_Neural_Network_Step_by_Step.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="209" selection-start-line="209" selection-end-line="209" />
+          <folding>
+            <element signature="e#46#873#0" />
+            <element signature="e#46#492#1" />
+            <element signature="e#687#710#0" />
+            <element signature="e#756#850#0" />
+            <element signature="e#924#1859#0" />
+            <element signature="e#924#1301#1" />
+            <element signature="e#1439#1836#0" />
+            <element signature="e#1625#1648#0" />
+            <element signature="e#1895#2607#0" />
+            <element signature="e#1895#2465#1" />
+            <element signature="e#2514#2537#0" />
+            <element signature="e#2671#3898#0" />
+            <element signature="e#2671#3392#1" />
+            <element signature="e#3560#3583#0" />
+            <element signature="e#3941#5277#0" />
+            <element signature="e#5309#5983#0" />
+            <element signature="e#6964#8192#0" />
+            <element signature="e#8236#10415#0" />
+            <element signature="e#10475#11431#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ANN_Project_Assets/Feature_Extraction_Test.py" />
+    <entry file="file://$PROJECT_DIR$/../../ANN_Project_Assets/Feature_Extraction_Train.py" />
+    <entry file="file://$PROJECT_DIR$/../../ANN_Project_Assets/Loading_Datasets.py" />
+    <entry file="file://$PROJECT_DIR$/test.py" />
     <entry file="file://$PROJECT_DIR$/Loading_Dataset.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="102">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#35#58#0" />
+            <element signature="e#125#1201#0" />
+            <element signature="e#930#1102#0" />
+            <element signature="e#1108#1117#0" />
+            <element signature="e#1229#2275#0" />
+            <element signature="e#2009#2178#0" />
+            <element signature="e#2184#2193#0" />
+            <element signature="e#2277#2289#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Feature_Extraction_Train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Feature_Extraction_Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ANN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#133#470#0" />
+            <element signature="e#375#453#0" />
+            <element signature="e#511#817#0" />
+            <element signature="e#723#800#0" />
+            <element signature="e#843#1051#0" />
+            <element signature="e#1100#1455#0" />
+            <element signature="e#1292#1432#0" />
+            <element signature="e#1503#1828#0" />
+            <element signature="e#1683#1810#0" />
+            <element signature="e#1853#2830#0" />
+            <element signature="e#1887#1903#0" />
+            <element signature="e#1939#1966#0" />
+            <element signature="e#2004#2050#0" />
+            <element signature="e#2083#2100#0" />
+            <element signature="e#2135#2163#0" />
+            <element signature="e#2196#2215#0" />
+            <element signature="e#2250#2278#0" />
+            <element signature="e#2314#2548#0" />
+            <element signature="e#2585#2830#0" />
+            <element signature="e#2904#3115#0" />
+            <element signature="e#3158#3773#0" />
+            <element signature="e#3360#3720#0" />
+            <element signature="e#3809#4230#0" />
+            <element signature="e#4052#4198#0" />
+            <element signature="e#4255#4398#0" />
+            <element signature="e#4433#4465#0" />
+            <element signature="e#4518#4714#0" />
+            <element signature="e#4785#5754#0" />
+            <element signature="e#4983#5736#0" />
+            <element signature="e#5273#5354#0" />
+            <element signature="e#5544#5736#0" />
+            <element signature="e#5855#7123#0" />
+            <element signature="e#6027#7029#0" />
+            <element signature="e#6152#6942#0" />
+            <element signature="e#6375#6642#0" />
+            <element signature="e#6728#6903#0" />
+            <element signature="e#7195#7954#0" />
+            <element signature="e#7395#7936#0" />
+            <element signature="e#7856#7936#0" />
+            <element signature="e#8056#9278#0" />
+            <element signature="e#8256#9168#0" />
+            <element signature="e#8381#9044#0" />
+            <element signature="e#8830#9005#0" />
           </folding>
         </state>
       </provider>
