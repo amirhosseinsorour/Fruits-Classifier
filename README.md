@@ -13,5 +13,5 @@ time and the learning may be slow.
 loops. Actually, instead of using loops, we use matrix multiplications which can be computed much faster using matrix libraries 
 such as numpy, due to parallelism of computations.
 
-*The network is used to classify 4 or 6 types of fruits: Apple, Banana, Kiwi, Lemon, Mango, and Raspberry.
-<br /> *The dataset used for training the network is Kaggle Fruits-360 Dataset.
+*The network is used to classify 4 or 6 types of fruits: Apple, Banana, Kiwi, Lemon, Mango, and Raspberry.*
+<br /> *The dataset used for training the network is Kaggle Fruits-360 Dataset.*
